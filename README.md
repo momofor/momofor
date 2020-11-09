@@ -13,5 +13,6 @@ I'm currently trying to get better at *python* and learn *javascript* and it fra
 * [x] learn how to use fish shell,
 * [ ] try other window managers,
 * [x] learn markdown and github flavored markdown.
+* [x] make everything I use have nord theme :D
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=momofor&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
