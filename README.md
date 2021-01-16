@@ -3,9 +3,7 @@
 
 I'm a young *web developer* and *student*,
 I think I'm quite good at: html,css,bash,fish .
-And I'm an expert at the vim ways of life 
-I'm currently trying to get better at *python* and learn *javascript* and it frameworks.
-
+And I'm an expert at the vim ways of life I love typescript and sass and I **think** they are better than javascript and css
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=momofor&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momofor&theme=nord&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
