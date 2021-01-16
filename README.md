@@ -8,4 +8,6 @@ I'm currently trying to get better at *python* and learn *javascript* and it fra
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=momofor&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=momofor&theme=nord
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
